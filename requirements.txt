@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+joblib
+gradio
+scikit-learn
